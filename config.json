@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorstringify",
+        "uuid": 10884213,
+        "checksum": "garefs"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
